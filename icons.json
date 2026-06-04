@@ -1,0 +1,10 @@
+{
+  "name": "NoWillow Icons",
+  "description": "An icon library for NoWillow ForwardWidget modules.",
+  "icons": [
+    {
+      "name": "FANS Top 10",
+      "url": "https://raw.githubusercontent.com/NoWillow/NoWillow/main/assets/icons/fans-top10.png"
+    }
+  ]
+}

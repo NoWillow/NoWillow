@@ -1,0 +1,16 @@
+{
+  "title": "NoWillow",
+  "description": "A collection of custom ForwardWidget modules.",
+  "widgets": [
+    {
+      "id": "forward.fanstop10",
+      "title": "FANS Top 10",
+      "description": "Top 10 Serien & Filme von serienfans.org / filmfans.org, gegen TMDB aufgelöst",
+      "requiredVersion": "0.0.1",
+      "version": "1.4.0",
+      "author": "NoWillow",
+      "url": "https://nowillow.github.io/NoWillow/widgets/fans-top10.js",
+      "icon": "https://raw.githubusercontent.com/NoWillow/NoWillow/main/assets/icons/fans-top10.png"
+    }
+  ]
+}
